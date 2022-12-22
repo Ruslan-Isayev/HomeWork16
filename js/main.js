@@ -1,6 +1,6 @@
 var travel = [
     ["Vusal","Hafiz","Rza"],
-    ["Aynur","Aysel","Fatime",
+    ["Ruslan","Aysel","Fatime",
         [
         'Tahire ve Aynur', true, "2+2", [
             "Maraqlı"
@@ -12,9 +12,9 @@ var travel = [
 ]
 
 
-// Menim adim Aynurdur. Men ADNSU telebesiyem ve IATCde tehsil aliram.
+// Menim adim Ruslandir. Men ADNSU telebesiyem ve IATCde tehsil aliram.
 
-console.log("Menim adim "+travel[1][0]+"dur."+" Men "+travel[1][4][1]+" telebesiyem ve "+travel[1][4][0]+"de tehsil aliram.")
+console.log("Menim adim "+travel[1][0]+"dir."+" Men "+travel[1][4][1]+" telebesiyem ve "+travel[1][4][0]+"de tehsil aliram.")
 
 
 // Azərbaycan = A
